@@ -1,4 +1,4 @@
-# chat_app_with_gemini_ai
+# gemini_gpt
 
 A new Flutter project.
 
